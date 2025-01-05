@@ -1,2 +1,6 @@
-fastapi==0.100.0
+fastapi==0.104.1
+motor==3.3.1
+pydantic==2.4.2
+fhir.resources==7.0.2
 hypercorn==0.14.4
+python-dotenv==1.0.0
